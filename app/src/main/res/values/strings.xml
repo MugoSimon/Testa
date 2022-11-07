@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Testa</string>
+    <string name="label">label</string>
+    <string name="content_description_end_icon">Input text</string>
+    <string name="helper_text">first name or surname</string>
+    <string name="login">login</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_name">enter name</string>
+    <string name="username">username</string>
+    <string name="characters">minimum of 8 characters</string>
+    <string name="password">password</string>
+    <string name="submit">submit</string>
+    <string name="email">email</string>
+    <string name="helper_email">enter a valid email</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="create_account">Create Account...</string>
+    <string name="or">or</string>
+    <string name="continue_with_google">Continue with GOOGLE</string>
+</resources>

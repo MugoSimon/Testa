@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671924488709",
+    "project_id": "testa-fd623",
+    "storage_bucket": "testa-fd623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671924488709:android:73b405406ae899529faa6c",
+        "android_client_info": {
+          "package_name": "mugosimon.com.testa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671924488709-6bqu7v3fublpes4b96m7alprje1164bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbjdMSq68HivhWbgEnOzlLVa1iEU3vJrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671924488709-6bqu7v3fublpes4b96m7alprje1164bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
